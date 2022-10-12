@@ -1,3 +1,6 @@
+# install.packages("devtools")
+devtools::install_github("embruna/bingo")
+
 library(bingo)
 
 ## see some of the SuperBowl 50 squares

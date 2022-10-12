@@ -46,7 +46,8 @@ bingo <- function(n_cards = 1, words, n = 5) {
 #' @examples
 #' bc <- bingo()
 #' plot(bc)
-plot.bingo <- function(x, dir = "./cards", fontsize = 14, pdf_base = "bingo-", ...) {
+#' ~/Dropbox (UFL)/Teaching/IDS 2935 - Future of Rain Forests
+plot.bingo <- function(x, dir = ".", fontsize = 14, pdf_base = "bingo-", ...) {
   bc <- x
   n <- infer_n(bc)
   n_cards <- ncol(bc)
