@@ -7,13 +7,12 @@ c(
   "Cracking Branch",
   "Dwindling Party (x2)",
   "Exit - Pursuded by a Bear",
-  "Inevtiable Waterfall",
   "Why is it so Quiet?",
   "Send in The Search Team",
   "Hollywood Natives",
   "Appease the Volcano God",
   "Send in the Search Team",
-  "Jungel Drums",
+  "Jungle Drums",
   "Cannibal Tribe (modified)",
   "Africa has the Best Warlords",
   "Great White Hunter",
@@ -32,6 +31,6 @@ c(
   "Jungles Sound Like Kookaburras",
   "Mischief-Making Monkey",
   "River of Insanity",
-  " ' Endangered Species List' ",
+  " 'Endangered Species List' ",
   " 'Sesame Cake' "
 )
