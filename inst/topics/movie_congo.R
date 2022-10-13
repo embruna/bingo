@@ -1,0 +1,37 @@
+## Aim : bingo card proposal for the movie "Congo"
+## Author : Emilio Bruna
+
+c(
+  "Adventure Outfit",
+  "Chased by Angry Natives",
+  "Cracking Branch",
+  "Dwindling Party (x2)",
+  "Exit - Pursuded by a Bear",
+  "Inevtiable Waterfall",
+  "Why is it so Quiet?",
+  "Send in The Search Team",
+  "Hollywood Natives",
+  "Appease the Volcano God",
+  "Send in the Search Team",
+  "Jungel Drums",
+  "Cannibal Tribe (modified)",
+  "Africa has the Best Warlords",
+  "Great White Hunter",
+  "Angry, Angry Hippos",
+  "Killer Gorilla",
+  "Darkest Africa",
+  "Temple of Doom",
+  "Evil Colonialist",
+  "Zinj",
+  "There's a Tarantula on Your Shoulder (modified)",
+  "Adventurer Outfit",
+  "Noisy Nature",
+  "Science Hero",
+  "Jungle Warfare",
+  " 'Amy Want Green Drop Drink' ",
+  "Jungles Sound Like Kookaburras",
+  "Mischief-Making Monkey",
+  "River of Insanity",
+  " ' Endangered Species List' ",
+  " 'Sesame Cake' "
+)
