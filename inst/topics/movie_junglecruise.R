@@ -1,0 +1,56 @@
+## Aim : bingo card proposal for the movie "Jungle Cruise"
+## Author : Emilio Bruna
+c(
+  "Quilla means: ________",
+  "HistoryFail: 'Steamer to Porto Velho' ",
+  "Leafcutter Ants",
+  "HistoryFail: Metal Arrowheads",
+  "Trope: Dwindling Party ('One by one the jungle took us')",
+  "BioFail: Coral Snake strike",
+  " 'Could ou ask the bee for coordinates?' ",
+  " 'The Natives' ",
+  " 'The Trees...the bugs...the jjnnggll' ",
+  "BioFail: flock of macaws",
+  "BioFail: Cockatoo",
+  " HistoryFail: In 1916, plural of 'Real'='Reis' ",
+  " 'They can smell fear.' ",
+  " 'My eyeballs are sweating' ",
+  "Pink River Dolphins",
+  "Capuchin Monkeys",
+  "BioFail: 'Did you see these Heliconias?' ",
+  " 'LagrÍmas de Cristal' ",
+  " 'This God-Forsaken Endless Amazon!' ",
+  "Biology(Semi)Fail: Poison Dart Frogs",
+  "Piranha",
+  "BioFail: Toucas calling...at night",
+  " 'You are deeply unpleasant.' ",
+  "Spanish Fail(-ish): 'C'mon Buena Niña!' ",
+  " 'You're the worst cat I've ever had' ",
+  " 'Dead as a Dodo' ",
+  "CultureFail: Mastao",
+  "Trope: Captured by Cannibals",
+  "Trope: Inevitable Waterfall",
+  "Trope: That Blowdart Just Missed Us!",
+  "Trope: Vine Swing",
+  "Trope: Bold Explorer",
+  "Trope: Evil Colonialist",
+  "Trope: Native Guide",
+  "Trope: The Chief's Daughter",
+  "Trope: Adventurer Outfit",
+  "Trope: Panthera Awesome",
+  "Trope: Snakes Are Sinister",
+  "Trope: Temple of Doom",
+  "Trope: 'Everything Here is Trying To Kill You' ",
+  "Trope: This jungle is devouring our souls",
+  "Trope: Jungle Drums",
+  "Trope: 'We’re never going to make it out of here alive!' ",
+  " '...this “booga-booga” nonsense' ",
+  "Trope: Cannibal Tribe ('They’re the ones that like to eat you and wear your eyes for beads')",
+)
+
+
+## Puka Michuna.
+## " 'Everything that you see wants to kill you' ",
+## River of Insanity
+## The Amazon (peru, Brasil, doesnt matter)
+## masato: https://pubmed.ncbi.nlm.nih.gov/33216234/
