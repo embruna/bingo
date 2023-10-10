@@ -1,4 +1,4 @@
-## Aim : bingo card proposal for the movie "Jungle Cruise"
+## Aim : bingo card proposal for the movie "Congo"
 ## Author : Emilio Bruna
 
 c(
@@ -48,10 +48,3 @@ c(
   " '...this “booga-booga” nonsense' ",
   "Trope: Cannibal Tribe ('They’re the ones that like to eat you and wear your eyes for beads')"
 )
-
-
-## Puka Michuna.
-## " 'Everything that you see wants to kill you' ",
-## River of Insanity
-## The Amazon (peru, Brasil, doesnt matter)
-## masato: https://pubmed.ncbi.nlm.nih.gov/33216234/
