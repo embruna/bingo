@@ -42,7 +42,8 @@ Install from GitHub with:
 
 ```{r eval = FALSE}
 # install.packages("devtools")
-devtools::install_github("jennybc/bingo")
+# devtools::install_github("jennybc/bingo")
+devtools::install_github("embruna/bingo", force=TRUE)
 ```
 
 ## SuperBowl Example
