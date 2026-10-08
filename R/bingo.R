@@ -18,13 +18,14 @@ bingo <- function(n_cards = 1, words, n = 5) {
 
   words <- vet_squares(words)
   m <- length(words)
-  n_sq <- (n ^ 2) - 1
+  # n_sq <- (n ^ 2) - 1
+  n_sq <- (n ^ 2) #EB
   stopifnot(m >= n_sq)
 
   cards <- replicate(n_cards, words[sample.int(m, size = n_sq)])
   up_to <- trunc(n_sq/2)
   cards <- rbind(utils::head(cards, up_to),
-                 rep("FREE", n_cards),
+                 # rep("FREE", n_cards),
                  utils::tail(cards, up_to))
   row.names(cards) <- NULL
   structure(cards, class = c("bingo", "matrix"))
